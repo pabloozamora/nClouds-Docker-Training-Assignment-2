@@ -23,3 +23,9 @@ Access localhost and if everything looks good, commit your changes into your rep
 ## Tips
 * Take a look at the database configuration defined on the webapp/server.py file. Use the same credentials for your MySQL container.
 * Learn about how MySQL docker image works in: https://hub.docker.com/_/mysql
+
+## Assignment result
+<hr/>
+
+![image](https://github.com/pabloozamora/nClouds-Docker-Training-Assignment-2/assets/77593400/1317e600-e48c-440b-a1b3-d4ff815719cd)
+
